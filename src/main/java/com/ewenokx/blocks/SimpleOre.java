@@ -1,0 +1,25 @@
+package com.ewenokx.blocks;
+
+import java.util.ArrayList;
+
+import com.ewenokx.Init.items;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.block.state.IBlockState;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.BlockPos;
+import net.minecraft.world.IBlockAccess;
+
+
+
+public class SimpleOre extends Block{
+
+	public SimpleOre(Material material) {
+		super(material);
+		
+		this .setHarvestLevel("pickaxe", 3);
+
+	}
+
+}

@@ -1,0 +1,9 @@
+item.iron_stick.name=Iron Stick
+item.orichalque_ingot.name=Orichalque Ingot
+item.red_diamond.name=Red Diamond
+
+tile.orichalque_ore.name=Orichalque ore
+tile.orichalque_block.name=Orichalque Block
+
+
+itemGroup.EwenokxTap=Ewenokx Mod

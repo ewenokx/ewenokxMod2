@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ewenokx",
+  "name": "Styl&craft",
+  "description": "mod serve Styl&craft.",
+  "version": "{0.1}",
+  "mcversion": "{1.8}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ewenokx"],
+  "credits": "caca",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
